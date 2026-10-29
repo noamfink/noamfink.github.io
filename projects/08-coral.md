@@ -22,4 +22,6 @@ This coral toy introduces children to the beauty, complexity, and fragility of c
 
 ![Line drawings of three coral pattern variations](images/coral-inspired-childrens-toy/02.png "Pattern variations")
 
+![Layered beige toy pieces with dotted, contoured surfaces, partly covered in purple strands, on a work table](images/coral-inspired-childrens-toy/03-making.jpg "Making the prototype")
+
 <!-- TODO: Process and result are missing: how the storytelling works, materials, age range, testing with children. The second image is 960px. Consider citing a source for the 90% by 2050 figure. -->
