@@ -1,7 +1,7 @@
 ---
 title: Non-invasive marine research systems
 slug: non-invasive-marine-research-systems
-summary: A remora-inspired drone and suction tag for studying marine animals without harming them.
+summary: A non-invasive marine animal tagging solution inspired by the suction mechanism of the remora fish.
 tint: mist
 cover: images/non-invasive-marine-research-systems/01.png
 credits: Envisioned and designed with Roei Niezni
