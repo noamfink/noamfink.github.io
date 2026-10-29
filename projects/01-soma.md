@@ -10,6 +10,8 @@ cover: images/soma/03.png
 
 ![Three Labrador retrievers wearing the harness system, lying, sitting and standing](images/soma/03.png)
 
+![Soma project video](images/soma/13-video.mp4 "Project video (Hebrew, with Hebrew subtitles)")
+
 ## Problem
 
 Service dogs have accompanied humans for centuries, offering independence, security, and support. With their sharpened senses, dogs can read their owners and react accordingly. However, for a person to fully understand their dog, additional insight is needed.
