@@ -12,6 +12,8 @@ cover: images/coral-inspired-childrens-toy/01.png
 
 Climate change is causing widespread coral reef bleaching. Scientists estimate that over 90% of the world's coral reefs are at risk of being lost by 2050 if global warming continues at its current pace. This devastating loss means that future generations may never witness these vibrant underwater ecosystems that are so vital to our existence.
 
+![A dense brown maze-like pattern next to an underwater photo of a round brain coral among sea fans](images/coral-inspired-childrens-toy/00b-inspiration.webp "Inspiration: the meandering pattern of brain coral")
+
 ## Concept
 
 This coral toy introduces children to the beauty, complexity, and fragility of coral reef ecosystems. Through tactile play and storytelling, the toy aims to spark curiosity, empathy, and awareness about marine conservation from a young age.
