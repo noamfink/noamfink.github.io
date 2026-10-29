@@ -5,6 +5,7 @@
 // Run: npm run build
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import sharp from 'sharp';
 import { Marked } from 'marked';
 
@@ -16,6 +17,8 @@ const warnings = [];
 
 const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const isPlaceholder = v => !v || /^\[.*\]$/.test(v);
+// Version stamp for CSS/JS links, so browsers fetch a new copy as soon as the file changes.
+const ver = f => crypto.createHash('md5').update(fs.readFileSync(path.join(ROOT, 'static', f))).digest('hex').slice(0, 8);
 
 // ---------- content ----------
 function parseProject(file) {
@@ -171,7 +174,7 @@ function layout({ title, description, url, image, body, bodyClass = '' }) {
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="${fontHref}">
-<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/styles.css?v=${ver('styles.css')}">
 <script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
 </head>
 <body class="${bodyClass}">
@@ -193,7 +196,7 @@ ${body}
   <p>© ${new Date().getFullYear()} ${esc(site.name)}</p>
   <p class="footer-links">${contactLinks()}</p>
 </footer>
-<script src="/main.js" defer></script>
+<script src="/main.js?v=${ver('main.js')}" defer></script>
 </body>
 </html>
 `;
