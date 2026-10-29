@@ -8,8 +8,6 @@ cover: images/soma/03.png
 
 ![Soma: Smart Textile Systems for Service Dog Partnerships, with a line drawing of a seated dog](images/soma/00-title.webp)
 
-![Three Labrador retrievers wearing the harness system, lying, sitting and standing](images/soma/03.png)
-
 ![Soma project video](images/soma/13-video.mp4 "Project video (Hebrew, with Hebrew subtitles)")
 
 ## Problem
@@ -35,6 +33,8 @@ The system consists of two complementary harnesses:
 ![Line drawing of a Labrador wearing the outer shell, with a Service Dog label and adjustable straps](images/soma/10-outer-shell.png "The Outer Shell")
 
 Together, the system creates a new communication channel between humans and their dogs, strengthening mutual support and restoring confidence and independence to individuals living with PTSD in their daily lives.
+
+![Three Labrador retrievers wearing the harness system, lying, sitting and standing](images/soma/03.png)
 
 ![A chocolate Labrador wearing the Service Dog harness lies on an outdoor step beside its handler, who rests a hand on its head](images/soma/08-in-use.webp)
 
