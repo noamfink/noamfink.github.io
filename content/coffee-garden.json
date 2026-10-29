@@ -1,0 +1,18 @@
+{
+  "slug": "coffee-garden",
+  "pageTitle": "Noam Fink - コーヒーの庭 | Coffee Garden",
+  "title": "コーヒーの庭 | Coffee Garden",
+  "metaDescription": "Bringing the essence of a Japanese Zen garden into the home, Kōhii no Niwa invites presence, patience, and care into the daily ritual of brewing. Designed around a living bonsai, it transforms a routine act into a moment of quiet reflection. \n\nThe interaction is slow and intentional, echoing the rhythms of nature and the mindful attention found in traditional Japanese practices. By merging plant life with function, the object becomes more than a machine—it becomes a living ritual.",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/34efcc0e-369a-4489-b85f-bb59dc155562_rwc_111x0x2225x1669x2225.png?h=15e2ca2f5ab491e36a84f4f8dba48a82",
+  "sourceUrl": "https://noamfink.myportfolio.com/coffee-garden",
+  "modules": [
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/6a29b54d-52df-49fd-9b5a-7ae087c5f42b.png?h=14817c4fa49c7895c0ad1799bf98e6c6",
+      "alt": "",
+      "caption": "",
+      "local": "images/coffee-garden/01.png"
+    }
+  ],
+  "coverLocal": "images/coffee-garden/cover.png"
+}

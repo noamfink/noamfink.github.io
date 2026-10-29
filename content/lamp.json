@@ -1,0 +1,56 @@
+{
+  "slug": "lamp",
+  "pageTitle": "Noam Fink - lamp",
+  "title": "lamp",
+  "metaDescription": "This lamp is crafted from a combination of aluminum and 3D-printed components, each chosen for its distinct material properties. The contrast between the rigid precision of aluminum and the flexibility of 3D printing enables a unique formal language. While aluminum provides structural integrity and a refined finish, 3D printing opens the door to more organic geometries and design features that would be difficult to achieve through traditional fabrication.\n\nTo maintain a minimal and elegant aesthetic, all internal mechanisms are intentionally concealed—creating a clean, quiet presence in the space.\n\nThe central connector and adjustment mechanism were developed through extensive iteration and testing. Their final form emphasizes the lamp’s range of motion while remaining intuitive to use. The asymmetrical design of the rod not only enhances the visual sense of movement but also naturally guides the user’s interaction with it.",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/ae018922-3a76-42e3-8b30-ac5b82fc59db_rwc_0x87x2402x1801x2402.png?h=cfcac0362740112ef822fd5d7266f607",
+  "sourceUrl": "https://noamfink.myportfolio.com/lamp",
+  "modules": [
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/1369de12-afab-44a3-9173-ab70cab86bd5_rw_1200.jpg?h=49f45266923173c0af8900e781f83d90",
+          "caption": "",
+          "local": "images/lamp/01.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/04407af4-89ec-44f3-a426-e4ba4aec4dfd_rw_1920.jpg?h=8744be43cb4b67a770e11f56fa98bd70",
+          "caption": "",
+          "local": "images/lamp/02.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/424acb75-e502-4788-a900-d9fd935ee3e9_rw_1920.jpg?h=b0895826ba3faa3c8bf581a943801a65",
+          "caption": "",
+          "local": "images/lamp/03.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/8eb16ef6-3768-4d56-8fee-fbafd5f3282c_rw_1920.jpg?h=7dd107f0263b54913c922b98c0844b0e",
+          "caption": "",
+          "local": "images/lamp/04.jpg"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/b9675731-e3eb-44e6-ab3b-e7ccda006998_rw_1200.jpg?h=689254a3ffad89f92e4f5cfacaed3d3c",
+          "caption": "",
+          "local": "images/lamp/05.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/cd9d1b24-7ba6-4c60-bf2f-42eb238b23d7_rw_1200.jpg?h=9abb3aee6e9ae5c22952191c899f7f2c",
+          "caption": "",
+          "local": "images/lamp/06.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/ae5374d4-ad56-403d-bbd1-f58429b7b7d8_rw_1200.jpg?h=3fb848650f3b9b64ed1dfaff614bf64b",
+          "caption": "",
+          "local": "images/lamp/07.jpg"
+        }
+      ]
+    }
+  ],
+  "coverLocal": "images/lamp/cover.png"
+}

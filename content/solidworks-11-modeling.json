@@ -1,0 +1,38 @@
+{
+  "slug": "solidworks-11-modeling",
+  "pageTitle": "Noam Fink - solidworks 1:1 modeling",
+  "title": "solidworks 1:1 modeling",
+  "metaDescription": "A precise 1:1 3D model of Nike Zoom Vista Lite sneaker, capturing the shoe’s bold geometry, layered materials, and sculptural sole. Focused on proportion, detail, and form accuracy. Modeled on Solidworks, Rendered on Keyshot Studio",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/87ca49c7-324b-452d-bd45-1f5380fe9f52_rwc_305x0x1866x1400x1866.png?h=4740affab0ade5d2fd00cfba818b7f26",
+  "sourceUrl": "https://noamfink.myportfolio.com/solidworks-11-modeling",
+  "modules": [
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/384e050d-c88c-4015-adfd-6a2f01b4dcb6_rw_1200.png?h=779e4ac79d13206bb8227dc21bfda3d6",
+          "caption": "",
+          "local": "images/solidworks-11-modeling/01.png"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/d48c21f9-5a9f-406f-8136-8b2017b161df_rw_1200.png?h=62f930de396d537656ce26df0b6310b3",
+          "caption": "",
+          "local": "images/solidworks-11-modeling/02.png"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/788eae02-c921-4557-8d44-765a36df1a64_rw_1200.png?h=670a373b5132cbc9077d0b14598c037b",
+          "caption": "",
+          "local": "images/solidworks-11-modeling/03.png"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/6ff460ae-f31c-4922-acf1-c9b3d0dbb031.png?h=932775ef06f54013f3d5fe817f8e9c89",
+      "alt": "",
+      "caption": "",
+      "local": "images/solidworks-11-modeling/04.png"
+    }
+  ],
+  "coverLocal": "images/solidworks-11-modeling/cover.png"
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "about-me",
+  "pageTitle": "Noam Fink - About Me",
+  "title": "About Me",
+  "metaDescription": "Fourth Year Industrial Design student | Born and raised in Boston, Massachusetts \n\nFrom a young age, I’ve been drawn to what exists beyond the obvious, constantly exploring new ways to push creative boundaries. I believe that true understanding of the world, of both living and technological systems, and of one another must come before any meaningful creation. Guided by a deep appreciation for the natural world, I believe we must design with it, rather than for it, responding to its rhythms and needs with care, curiosity, and pure intention.\n",
+  "cover": null,
+  "sourceUrl": "https://noamfink.myportfolio.com/about-me",
+  "modules": [
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/ee328e56-0482-4709-99e0-9680bcf7b72d.png?h=cb1d27843956261a4c1ced63e3d118fc",
+      "alt": "",
+      "caption": "",
+      "local": "images/about-me/01.png"
+    }
+  ]
+}

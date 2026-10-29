@@ -1,0 +1,36 @@
+{
+  "slug": "mdf-lamination-stools",
+  "pageTitle": "Noam Fink - mdf lamination stools",
+  "title": "mdf lamination stools",
+  "metaDescription": "The concept of a stool arrived not alone, but as a pair, a reflection—two forms in quiet dialogue. An invitation for connection, conversation, and unity. \n\nCrafted through curved MDF lamination using heat, and finished with oak and walnut veneer, the form reflects the fluidity and warmth of companionship—two pieces that belong together, yet retain their own identities.",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/72eadbd7-9185-472b-b528-8f8388e084ae_rwc_36x212x899x674x899.png?h=159cec48525041db96a74352761cd83e",
+  "sourceUrl": "https://noamfink.myportfolio.com/mdf-lamination-stools",
+  "modules": [
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/e8314cd3-45b1-4599-9166-11df6f7490ea_rw_1920.png?h=3bb4933a36d5635e1357213b328c9ed9",
+          "caption": "",
+          "local": "images/mdf-lamination-stools/01.png"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/15afa1b9-8357-46d8-8b1b-054ca6b71d6b_rw_1200.jpg?h=96735131439f853f9a0f8f23805bd94e",
+          "caption": "",
+          "local": "images/mdf-lamination-stools/02.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/1cc00df1-c406-4d5a-b27f-2e9e940c4d7f_rw_1200.jpg?h=3bfa32bf1c666df8da71291381682837",
+          "caption": "",
+          "local": "images/mdf-lamination-stools/03.jpg"
+        }
+      ]
+    }
+  ],
+  "coverLocal": "images/mdf-lamination-stools/cover.png"
+}

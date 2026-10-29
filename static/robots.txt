@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://noamfink.github.io/sitemap.xml

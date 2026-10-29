@@ -1,0 +1,26 @@
+{
+  "slug": "coral-inspired-childrens-toy",
+  "pageTitle": "Noam Fink - coral inspired children's toy",
+  "title": "coral inspired children's toy",
+  "metaDescription": "Climate change is causing widespread coral reef bleaching—scientists estimate that over 90% of the world’s coral reefs are at risk of being lost by 2050 if global warming continues at its current pace. This devastating loss means that future generations may never witness these vibrant underwater ecosystems that are so vital to our existence. \n\nThis coral toy introduces children to the the beauty, complexity, and fragility of coral reefs ecosystems. Through tactile play and storytelling, the toy aims to spark curiosity, empathy, and awareness about marine conservation from a young age.",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/893f3fcd-7534-4105-b99d-1e2887f2b0a2_rwc_27x27x1221x915x1221.jpg?h=c2bb9fceb88e4d35d905dd7c798cd756",
+  "sourceUrl": "https://noamfink.myportfolio.com/coral-inspired-childrens-toy",
+  "modules": [
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/30d570c0-b7fe-4cb3-a849-09aeeb7ab285_rw_1920.png?h=c96b2f7a6c79f357dd7c6de9d645dbcf",
+          "caption": "",
+          "local": "images/coral-inspired-childrens-toy/01.png"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/2c36d2c6-abca-498b-b194-bc08a5866d1e_rw_1200.png?h=f83e2343f2c22a2907ddaf64c4304c7a",
+          "caption": "",
+          "local": "images/coral-inspired-childrens-toy/02.png"
+        }
+      ]
+    }
+  ],
+  "coverLocal": "images/coral-inspired-childrens-toy/cover.jpg"
+}

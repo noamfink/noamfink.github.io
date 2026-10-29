@@ -1,0 +1,66 @@
+{
+  "slug": "ceramic-mugs",
+  "pageTitle": "Noam Fink - ceramic mugs",
+  "title": "ceramic mugs",
+  "metaDescription": "This series of mugs rethinks the way we hold and are held by everyday objects. Starting from the handle, I explored new ways to create a more intimate, comforting interaction between the mug and the user.\n\nEach mug is designed with distinct finger placements, some allow the hand to slip through openings, others invite a full grip or a gentle cradle. These gestures go beyond function; they create a physical connection between user and object.\n\nJust as the user wraps their hand around the mug, the mug responds with soft curves and contours that press back into the hand, offering comfort, warmth, and a subtle sense of being embraced in return.\n\nThrough form and touch, the mugs aim to turn a daily routine into a moment of quiet connection.",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/66b16991-623b-42e1-9bc5-c7f9d611622b_rwc_144x48x1322x992x1322.png?h=d5bfe8c85d4f689dc58e1d48d3950c0a",
+  "sourceUrl": "https://noamfink.myportfolio.com/ceramic-mugs",
+  "modules": [
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/88c3f161-2b6a-4085-8631-d10c11e53c9b_rw_3840.JPG?h=4fc343d82b0d29d0bc06d6637d8e797a",
+          "caption": "",
+          "local": "images/ceramic-mugs/01.jpg"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/9c95194b-bf55-4144-9513-9384836c118a_rw_1200.jpg?h=10c9e08662a31937a572f0da83004512",
+          "caption": "",
+          "local": "images/ceramic-mugs/02.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/81a0a265-bafb-4c66-a591-ccd5780ba831_rw_1200.jpg?h=056693d3acd9426113806099e8e4aa57",
+          "caption": "",
+          "local": "images/ceramic-mugs/03.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/416617be-6ee3-4952-bf6f-efc537df6fc3_rw_1200.jpg?h=74e0a26673c99ae8d6990623053492a3",
+          "caption": "",
+          "local": "images/ceramic-mugs/04.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/069c6111-add6-4b46-a6e5-52f0e369db57_rw_1200.jpg?h=4cfdf4a0427d6fde23eb2f6cd0062fc3",
+          "caption": "",
+          "local": "images/ceramic-mugs/05.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/104541a1-e2fa-4855-ae89-497ac2769484_rw_1200.jpg?h=dc7663e52bdca51e3954b1f387656dbe",
+          "caption": "",
+          "local": "images/ceramic-mugs/06.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/be3ec7e3-3951-4241-9354-a634014fefd6_rw_1200.jpg?h=97a38f8769d43fdd964b23ac9d8fb9ee",
+          "caption": "",
+          "local": "images/ceramic-mugs/07.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/e792b731-dcd4-4978-acb0-e0b7c566baaf_rw_1200.jpg?h=44cf1a32472761edb9565eeec8bacccd",
+          "caption": "",
+          "local": "images/ceramic-mugs/08.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/b0ee2976-6572-4fb7-b032-2ab85eeecab4_rw_1200.jpg?h=925aa66d5046ae863fe9818a9b250564",
+          "caption": "",
+          "local": "images/ceramic-mugs/09.jpg"
+        }
+      ]
+    }
+  ],
+  "coverLocal": "images/ceramic-mugs/cover.png"
+}

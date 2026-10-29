@@ -1,0 +1,52 @@
+{
+  "slug": "non-invasive-marine-research-systems",
+  "pageTitle": "Noam Fink - non-invasive marine research systems",
+  "title": "non-invasive marine research systems",
+  "metaDescription": "Traditional marine tagging methods are often invasive and harmful, posing risks to animal welfare and altering natural behaviors.\n\nThis project proposes a non-invasive tagging solution inspired by the suction mechanism of the remora fish. An autonomous marine drone approaches the animal and deploys a soft suction-based tag, minimizing stress and behavioral disruption.\n\nThe goal is to shift marine research toward more respectful, biomimetic methods that prioritize animal welfare and scientific accuracy. By reducing physical interference, this approach supports more reliable insights into marine life and ecosystems.",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/dc369516-aba5-4420-b4e8-f6e3ac3d01ba_rwc_0x16x1760x1320x1760.png?h=e74ccbfe447f06ca65d4ff5badb7abc3",
+  "sourceUrl": "https://noamfink.myportfolio.com/non-invasive-marine-research-systems",
+  "modules": [
+    {
+      "type": "text",
+      "text": "Envisioned and designed with Roei Niezni"
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/0dc6930b-2770-4e78-9ecb-e2a85d8c0eea_rw_1920.png?h=c05cd5d5a8d8e0d312346e07b5b4320f",
+          "caption": "",
+          "local": "images/non-invasive-marine-research-systems/01.png"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/e7b75dfa-2564-400b-8c25-fe6bd0c3edf7_rw_1920.png?h=d3ada26a7d9e9beb4f3f2f3ee43d6a94",
+          "caption": "",
+          "local": "images/non-invasive-marine-research-systems/02.png"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/f6d5af73-24cd-46ce-b62b-eb6e4bbe8021_rw_1920.png?h=9a458851a0c8afc01388a438c819b3a2",
+          "caption": "",
+          "local": "images/non-invasive-marine-research-systems/03.png"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/ebef61e8-2562-4868-b9d5-f08a680ea939_rw_1920.png?h=4e57fb53f689274e6ee8fc2104389096",
+          "caption": "",
+          "local": "images/non-invasive-marine-research-systems/04.png"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/5fecb248-efe7-433e-8b9b-68f5d768e89d_rw_1200.png?h=b122b0448d91ef756cb3f465a19988d4",
+          "caption": "",
+          "local": "images/non-invasive-marine-research-systems/05.png"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/d9ca5251-f148-4555-8c57-a28cde4d889e.png?h=0c2e5111cb6dc0a122ea549f2b5496a0",
+      "alt": "",
+      "caption": "",
+      "local": "images/non-invasive-marine-research-systems/06.png"
+    }
+  ],
+  "coverLocal": "images/non-invasive-marine-research-systems/cover.png"
+}

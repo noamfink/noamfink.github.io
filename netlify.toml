@@ -1,0 +1,22 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/media/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+# Keep the resume (which has a phone number) out of search results; the link still works.
+[[headers]]
+  for = "/resume.pdf"
+  [headers.values]
+    X-Robots-Tag = "noindex"

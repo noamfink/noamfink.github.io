@@ -1,0 +1,85 @@
+{
+  "slug": "soma",
+  "pageTitle": "Noam Fink - S o m a",
+  "title": "S o m a",
+  "metaDescription": "",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/6d631e38-d32e-4237-b792-9ce3b7236cfc_rwc_312x72x1323x992x1323.png?h=b7db2e862a556ccf72cf09a2eefd1635",
+  "sourceUrl": "https://noamfink.myportfolio.com/soma",
+  "modules": [
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/c9615cc3-bde0-42a1-8a10-1bb1832b5554.jpg?h=59592a98ea52610aa033662e4f302e77",
+      "alt": "",
+      "caption": "",
+      "local": "images/soma/01.jpg"
+    },
+    {
+      "type": "text",
+      "text": "Service dogs have accompanied humans for centuries, offering independence, security, and support. With their sharpened senses, dogs can read their owners and react accordingly. However, for a person to fully understand their dog, additional insight is needed.\n\nSoma introduces a smart harness system designed for service dogs supporting individuals with Post-Traumatic Stress Disorder (PTSD)."
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/f431868a-75de-4156-8afc-8684fc2860da.jpg?h=8545c261fc99bea57b787200dfa9a667",
+      "alt": "",
+      "caption": "",
+      "local": "images/soma/02.jpg"
+    },
+    {
+      "type": "text",
+      "text": "The system consists of two complementary harnesses:\n\nThe Base Harness | A minimalist layer built for comfortable, long-term wear. It integrates sensors for continuous real-time monitoring of the dog’s physiological metrics. The system assists during the training process and features an emergency distress button, allowing the dog to signal for human assistance in extreme situations.\n\n The Outer Shell | A professional overlay worn over the base harness when stepping into public spaces. Its refined, minimal design safeguards the user's privacy while clearly identifying the dog as an active service animal.\n\nTogether, the system creates a new communication channel between humans and their dogs, strengthening mutual support and restoring confidence and independence to individuals living with PTSD in their daily lives."
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/3a80f802-ec29-4aab-8301-a5ecda745e78.png?h=99dfbd0875b91c460dc7caa038d49ccc",
+      "alt": "",
+      "caption": "",
+      "local": "images/soma/03.png"
+    },
+    {
+      "type": "text",
+      "text": "w h a t 's n e x t ?"
+    },
+    {
+      "type": "text",
+      "text": "The next step for this project is to begin pilot testing the smart harness system with service dogs and their trainers. The goal is to evaluate the system in real-world conditions, validate the accuracy and usefulness of the collected data, and explore whether continuous physiological monitoring can provide meaningful insights into a dog’s state and support the training process.\n\nOnce the concept is validated, the system could expand beyond PTSD service dogs to support other working dogs, including guide dogs for people who are blind or visually impaired, military working dogs, and police K9 units. Each field presents unique challenges and opportunities where continuous monitoring could help improve animal welfare, performance, training, and communication between dogs and the humans who rely on them."
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/89799f01-9ce2-44a8-afb9-5a6d3f66f889.png?h=3fb6fe349c39551a309472a00bff13d6",
+      "alt": "",
+      "caption": "",
+      "local": "images/soma/04.png"
+    },
+    {
+      "type": "text",
+      "text": "About the Fibers"
+    },
+    {
+      "type": "text",
+      "text": "Pioneered by Prof. Yoel Fink’s research group at MIT and International Fabric Machines (IFM), these functional fibers pack micro-scale sensors, semiconductors, copper wiring, and optical channels directly inside individual strands through an advanced thermal drawing process. Protected by durable polymer coatings, the raw fibers function as precise electronic components capable of tracking biological and physical signals, including heart rate, breathing, movement, and temperature. To transform these high-tech strands into soft, wearable textiles, they are braided alongside traditional yarns, seamlessly integrating digital sensing into everyday fabric without losing flexibility or drape."
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/10e37a31-b4e9-4a7c-bbdf-ec96eaa1aab7_rw_1920.jpg?h=0e41c136f6b9e80c89b66fa9442b39c0",
+          "caption": "Fiber 'Preform' | The fiber’s large-scale initial form prior to thermal drawing.",
+          "local": "images/soma/05.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/fcb746be-b0c8-4135-a47d-64cd5610d897_rw_1200.jpg?h=28cc8ee9a69f0205910a75346d2e5ce6",
+          "caption": "The Fiber | Actual size after thermal drawing with integrated sensor",
+          "local": "images/soma/06.jpg"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/47934dd0-9f5d-4810-a878-4c6dbafd7fda.png?h=88952235ee4dbfe2aec4898de1cd8747",
+      "alt": "",
+      "caption": "",
+      "local": "images/soma/07.png"
+    }
+  ],
+  "coverLocal": "images/soma/cover.png"
+}

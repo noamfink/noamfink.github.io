@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+<!-- PLACEHOLDER: replace with the final Coffee Garden sketch from reference.html -->
+<path d="M20 88h120v8H20z"/>
+<path d="M44 88q-4-12 4-20 4-6-2-12"/>
+<path d="M30 58q0-10 10-10 4-10 16-6 10-2 12 8 8 4 2 10-8 4-18 0-8 4-16 2-6 0-6-4z"/>
+<path d="M92 88V50h26v38"/>
+<circle cx="105" cy="64" r="6"/>
+<path d="M111 64h19M98 82q7 6 14 0"/>
+</svg>

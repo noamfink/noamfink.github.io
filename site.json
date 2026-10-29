@@ -1,0 +1,22 @@
+{
+  "name": "Noam Fink",
+  "role": "Industrial Designer",
+  "url": "https://noamfink.github.io",
+  "email": "noamfink1@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/noamfink/",
+  "resume": "/resume.pdf",
+  "location": "Tel Aviv",
+  "hero": "Hi, I'm Noam. Welcome to my design journey.",
+  "availability": "Open to industrial design internships and full-time roles.",
+  "description": "Noam Fink is an industrial designer from Boston with a Bachelor's in Industrial Design from Shenkar College of Design, designing products, systems and objects rooted in depth, substance and lasting impact. Open to internships and full-time roles.",
+  "aboutLead": "Industrial Designer, Born and Raised in Boston, MA",
+  "about": [
+    "From an early age, I've been drawn to what exists beyond the obvious, constantly seeking new ways to push creative boundaries. I believe that true understanding of both living and technological systems must come before any meaningful creation. I am driven to build innovations that matter, projects rooted in depth, substance, and lasting impact."
+  ],
+  "facts": [
+    ["Based in", "Tel Aviv"],
+    ["Education", "B.Des Industrial Design, Shenkar College of Design, Tel Aviv"],
+    ["Tools", "Rhino, Grasshopper, SolidWorks, KeyShot"],
+    ["Making", "Prototyping, 3D Printing, Sketching, Hands On"]
+  ]
+}

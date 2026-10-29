@@ -1,0 +1,36 @@
+{
+  "slug": "rhino-3d-modeling",
+  "pageTitle": "Noam Fink - rhino 3D modeling",
+  "title": "rhino 3D modeling",
+  "metaDescription": "This hybrid chair blends the soft, sculptural form of the Etcetera Lounge Chair with the clean structure of the COD Easy Chair. The result is a balanced design, inviting yet composed, playful yet grounded. Modeled on Rhino, Rendered on Keyshot Studio.",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/0c95d359-f750-459d-8768-6d6ec44da464_rwc_80x0x1602x1202x1602.png?h=1d610606f6fdabcf6cc0014321e0458c",
+  "sourceUrl": "https://noamfink.myportfolio.com/rhino-3d-modeling",
+  "modules": [
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/a8a38b46-ed9b-4962-9b4d-bf5c2790a969_rw_1920.jpeg?h=15976a7ffafa22cf267c75ac25708efc",
+          "caption": "",
+          "local": "images/rhino-3d-modeling/01.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/f05a7554-33b6-4d62-bd42-c844ca77a5e9_rw_1920.jpeg?h=d9321ea6686b9d11fc8e50ee42e4cf38",
+          "caption": "",
+          "local": "images/rhino-3d-modeling/02.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/31532eb4-e06c-4659-b319-5bca24d5548b_rw_1920.jpeg?h=18ab7634bc638de30b0242f75e86d8b3",
+          "caption": "",
+          "local": "images/rhino-3d-modeling/03.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/48496347-2647-40bd-b748-6849178d7c97_rw_1920.png?h=5c04481b89cc628acaf62d4c214bba03",
+          "caption": "",
+          "local": "images/rhino-3d-modeling/04.png"
+        }
+      ]
+    }
+  ],
+  "coverLocal": "images/rhino-3d-modeling/cover.png"
+}

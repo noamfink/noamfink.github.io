@@ -1,0 +1,80 @@
+{
+  "slug": "north-face-store-concept",
+  "pageTitle": "Noam Fink - north face experience concept",
+  "title": "north face experience concept",
+  "metaDescription": "This concept reimagines The North Face retail space not just as a store, but as an immersive terrain, a physical and emotional landscape that invites exploration. Every element, from the flooring to the product displays, echoes the textures and challenges of the natural world, encouraging customers to test, touch, and fully engage with the environment.\n\nUsing Grasshopper as a parametric design tool, we developed a generative code that produces a textured pattern formed by overlapping circles. Where these circles intersect, a unique, topographic-like surface emerges—reminiscent of natural formations such as rock ridges, compressed snowfields, or dense forest canopies. This algorithmically generated pattern was refined, scaled, and integrated into the spatial design and material finishes, grounding the concept in both data-driven precision and organic inspiration.\n\n",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/4542217e-2bea-4bc3-80d2-888a3dfe6204_rwc_83x0x1406x1054x1406.png?h=9567c2a440b6689677d3e7e9bd2027d8",
+  "sourceUrl": "https://noamfink.myportfolio.com/north-face-store-concept",
+  "modules": [
+    {
+      "type": "text",
+      "text": "Imagined and created with Noa Rudnik and Uri Galili"
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/87905bf0-8f0e-404f-9a22-c3055468b2fd.png?h=46d805b68f309cc30b4233aef82e3107",
+      "alt": "",
+      "caption": "",
+      "local": "images/north-face-store-concept/01.png"
+    },
+    {
+      "type": "text",
+      "text": "The Variable Terrain Testing Zone is an engineered retail flooring system designed to simulate real-world hiking conditions within the store environment. Composed of modular surface segments that replicate diverse trail textures, such as gravel, rock, mud, incline, and uneven terrain, it allows customers to assess footwear performance under conditions that mimic outdoor movement. Integrated with subtle topographic gradients and non-slip materials, the platform enables precise evaluation of grip, stability, and stride adaptability."
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/200089fd-50e4-4e77-8ee0-ae8baadf55b4.png?h=a266cee20fa3e080eeafa72ea601440d",
+      "alt": "",
+      "caption": "",
+      "local": "images/north-face-store-concept/02.png"
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/40449571-1ec2-4fad-b740-0d52221408cf.jpg?h=d2aee68148dc51286051bffa5703b47f",
+      "alt": "",
+      "caption": "",
+      "local": "images/north-face-store-concept/03.jpg"
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/18c45ac0-a105-4666-b4f5-83b51ed4a970_rw_1920.jpg?h=94be2ea8b73386b2296f18f1c36e2ec9",
+          "caption": "",
+          "local": "images/north-face-store-concept/04.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/8f183fb4-742a-494c-9372-f5b4267ea1cb_rw_1920.jpg?h=c70b66a141baf8ba44fabb9b31d594d0",
+          "caption": "",
+          "local": "images/north-face-store-concept/05.jpg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "Step-by-step process of creating a custom topographic texture using Grasshopper and Rhino. Starting with overlapping circles, we generated an organic pattern that was refined and scaled to shape the material and spatial identity of the concept."
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/c50ab1d6-d7ac-45a5-843f-a43248ba71fb.png?h=76915d86d472c66003727bbd83300fb1",
+      "alt": "",
+      "caption": "",
+      "local": "images/north-face-store-concept/06.png"
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/3c137fce-2abc-4b6d-8e80-b1dfaa4b7814.jpg?h=e0bab0539da911040616baa8a2b47ef7",
+      "alt": "",
+      "caption": "",
+      "local": "images/north-face-store-concept/07.jpg"
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/c021ef6b-fdb7-4b2f-baf2-d1e710e9e986.png?h=1d3075d19071f8dc8f98d69ce7fadf3f",
+      "alt": "",
+      "caption": "",
+      "local": "images/north-face-store-concept/08.png"
+    }
+  ],
+  "coverLocal": "images/north-face-store-concept/cover.png"
+}

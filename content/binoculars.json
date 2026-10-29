@@ -1,0 +1,53 @@
+{
+  "slug": "binoculars",
+  "pageTitle": "Noam Fink - binoculars",
+  "title": "binoculars",
+  "metaDescription": "This project reimagines the binocular as a refined, intentional object, stripping it down to its essence. From concept to prototype, the focus was on creating a viewing experience that feels clean, intuitive, and calm.\n\nThe design prioritizes minimalism not only in appearance but also in interaction. Controls are seamlessly integrated to avoid distraction, allowing the user to focus entirely on the act of looking. Every decision, from form to function, was guided by a desire to reduce clutter and elevate clarity.",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/ce10a93b-1c83-47fd-b3e5-ef11d75933f5_rwc_62x86x1721x1291x1721.png?h=f79db9e56f819fb8b1bf994fd99edd5c",
+  "sourceUrl": "https://noamfink.myportfolio.com/binoculars",
+  "modules": [
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/04ddd0df-4026-4e78-9d68-cacfd5f0c6cc.jpg?h=abfe7c20d2e30c2c3fb7d1f7b124b231",
+      "alt": "",
+      "caption": "",
+      "local": "images/binoculars/01.jpg"
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/9dcb72c6-e189-4900-be5b-75256dcfc3ef_rw_1200.jpg?h=ce938593257b04e02ed9aad2cc740cf0",
+          "caption": "",
+          "local": "images/binoculars/02.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/1baa8db8-f6cb-4aff-917a-f69f69ba5b06_rw_1200.jpg?h=aca3eedeba8c053286761864c8d38d51",
+          "caption": "",
+          "local": "images/binoculars/03.jpg"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/d2334895-3489-430b-9e5a-41097d60971f_rw_1200.jpg?h=d11c05c2282d15cd93aee0a76d2732fc",
+          "caption": "",
+          "local": "images/binoculars/04.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/7f30e05c-f214-4a9f-af4f-ccff4f590975_rw_1200.jpg?h=dd9ea9b7f5dd3aa8c252193141c219cb",
+          "caption": "",
+          "local": "images/binoculars/05.jpg"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/f952e0c1-00f3-4e0a-ae3d-917dc7c6cedd_rw_1200.jpg?h=3268d3c7e656743e8747105ac04a55c3",
+          "caption": "",
+          "local": "images/binoculars/06.jpg"
+        }
+      ]
+    }
+  ],
+  "coverLocal": "images/binoculars/cover.png"
+}

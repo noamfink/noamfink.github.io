@@ -1,0 +1,51 @@
+{
+  "slug": "interactive-childrens-nebulizer",
+  "pageTitle": "Noam Fink - interactive nebulizer",
+  "title": "interactive nebulizer",
+  "metaDescription": "",
+  "cover": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/5985637e-67bf-4cda-96a5-a6fd5f4752ef_rwc_4040x1215x3933x2949x5120.png?h=b83195f8c13f4019ebb30dd23569ccd7",
+  "sourceUrl": "https://noamfink.myportfolio.com/interactive-childrens-nebulizer",
+  "modules": [
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/d1c98161-5067-406d-bfcb-976b21e63a8c.png?h=d07ba0368bce2a7371299da91c71f5f6",
+      "alt": "",
+      "caption": "",
+      "local": "images/interactive-childrens-nebulizer/01.png"
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/15e8928b-7441-46ed-90b2-38e55a86bc1a.png?h=342e91c64a0dfb87ee4cdb3e282f9f22",
+      "alt": "",
+      "caption": "",
+      "local": "images/interactive-childrens-nebulizer/02.png"
+    },
+    {
+      "type": "text",
+      "text": "The nebulizer is connected to a compressor unit topped with a soft, pink LED feature that inflates and deflates in sync with the child’s breathing. This pulsating light provides visual feedback, helping the child stay engaged and more at ease throughout the process. When the mask is removed, the light gradually fades, signaling inactivity and reinforcing the connection between the child and the device.\nMinimal in form and warm in tone, the nebulizer is designed to blend into the home while offering a sense of comfort and familiarity—turning clinical care into a soothing, interactive experience."
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/bdb5951f-593f-4b1a-b909-8d02f6845d78.png?h=ec32128398366aaecf78f096d2935895",
+      "alt": "",
+      "caption": "",
+      "local": "images/interactive-childrens-nebulizer/03.png"
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/333229a2-21d4-4b12-9057-f55d3f948e39_rw_3840.png?h=80d8005232f405b3b7c2a7b9df089b16",
+          "caption": "",
+          "local": "images/interactive-childrens-nebulizer/04.png"
+        },
+        {
+          "src": "https://cdn.myportfolio.com/5ca2c7e7-0d94-4af3-bcc5-30a5080fda79/69c1af9c-befa-4a06-b847-5eedf1f87371_rw_3840.png?h=796c75dd37f9e0048ffcf07cf881d549",
+          "caption": "",
+          "local": "images/interactive-childrens-nebulizer/05.png"
+        }
+      ]
+    }
+  ],
+  "coverLocal": "images/interactive-childrens-nebulizer/cover.png"
+}
