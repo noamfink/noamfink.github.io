@@ -1,7 +1,7 @@
 ---
 title: Generative design chair
 slug: generative-design-chair
-summary: A chair shaped by generative design in Autodesk Fusion, then refined by hand.
+summary: A Collaborative Approach to Generative Form
 cover: images/generative-design-chair/02-three-quarter.jpg
 ---
 
