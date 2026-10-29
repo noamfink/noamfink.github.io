@@ -24,13 +24,23 @@ The system consists of two complementary harnesses:
 
 **The Base Harness** | A minimalist layer built for comfortable, long-term wear. It integrates sensors for continuous real-time monitoring of the dog's physiological metrics. The system assists during the training process and features an emergency distress button, allowing the dog to signal for human assistance in extreme situations.
 
+![Line drawings of a Labrador from above, the side and the front, wearing the slim base harness around the chest and neck](images/soma/12-base-harness.png "The Base Harness: top, side and front views")
+
+![Diagram of a Labrador with sensor points for movement and gait, respiration rate, and heart rate / HRV, using two accelerometer sensors and one acoustic sensor](images/soma/11-sensors.webp "Sensor placement")
+
 **The Outer Shell** | A professional overlay worn over the base harness when stepping into public spaces. Its refined, minimal design safeguards the user's privacy while clearly identifying the dog as an active service animal.
+
+![Line drawing of a Labrador wearing the outer shell, with a Service Dog label and adjustable straps](images/soma/10-outer-shell.png "The Outer Shell")
 
 Together, the system creates a new communication channel between humans and their dogs, strengthening mutual support and restoring confidence and independence to individuals living with PTSD in their daily lives.
 
 ![A chocolate Labrador wearing the Service Dog harness lies on an outdoor step beside its handler, who rests a hand on its head](images/soma/08-in-use.webp)
 
-<!-- TODO: Add a short Process section here: research with trainers or handlers, how you tested fit and sensor placement, prototypes. Recruiters look for this most. -->
+## Process
+
+![Grid of harness design explorations drawn on dog silhouettes from the side, top and front](images/soma/09-explorations.webp "Harness form explorations")
+
+<!-- TODO: Add 2-3 sentences to the Process section: research with trainers or handlers, how you tested fit and sensor placement, prototypes. Recruiters look for this most. -->
 
 ## What's next
 
