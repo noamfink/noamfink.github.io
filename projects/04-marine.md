@@ -30,6 +30,6 @@ This project proposes a non-invasive tagging solution inspired by the suction me
 
 The goal is to shift marine research toward more respectful, biomimetic methods that prioritize animal welfare and scientific accuracy. By reducing physical interference, this approach supports more reliable insights into marine life and ecosystems.
 
-![FIT Sport Design Awards 2025 Honorable Mention badge](images/non-invasive-marine-research-systems/06.png "FIT Sport Design Awards 2025, Honorable Mention")
+![Visitors lean in to examine the white drone model on a plinth at an exhibition, with ocean footage on a screen behind](images/non-invasive-marine-research-systems/07-exhibition.jpg "On exhibition")
 
 <!-- TODO: Process is missing: how you studied the remora's suction disc, early sketches or models, and how the tag attaches and releases. Also say what your role was versus Roei's. The storyboard (05) is 960px and its captions are hard to read. -->
