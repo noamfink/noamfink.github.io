@@ -6,6 +6,8 @@ tint: mist
 cover: images/coral-inspired-childrens-toy/01.png
 ---
 
+![Cora: a hand-drawn round coral toy with lilac meandering channels](images/coral-inspired-childrens-toy/00-title.webp)
+
 ## Problem
 
 Climate change is causing widespread coral reef bleaching. Scientists estimate that over 90% of the world's coral reefs are at risk of being lost by 2050 if global warming continues at its current pace. This devastating loss means that future generations may never witness these vibrant underwater ecosystems that are so vital to our existence.
