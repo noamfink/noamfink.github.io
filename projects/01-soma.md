@@ -57,5 +57,3 @@ Pioneered by Prof. Yoel Fink's research group at MIT and International Fabric Ma
 ![Tall tapered fiber preforms in amber, clear and black](images/soma/05.jpg "Fiber 'Preform' | The fiber's large-scale initial form prior to thermal drawing.")
 
 ![A thin fiber threaded through a needle on dark fabric](images/soma/06.jpg "The Fiber | Actual size after thermal drawing with integrated sensor")
-
-![Diagram of the fiber braiding process from fiber input through a braiding machine to braided output](images/soma/07.png "Fiber braiding process, from technology to textile")
