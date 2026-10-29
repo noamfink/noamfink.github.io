@@ -79,6 +79,7 @@ p { margin: 0 0 1em; }
   letter-spacing: -0.045em;
   max-width: 12ch;
 }
+.home .hero h1 { color: #FFFFFF; }
 .availability { margin-top: 28px; color: var(--muted); display: flex; align-items: center; gap: 10px; font-size: 1rem; }
 .dot { inline-size: 7px; block-size: 7px; border-radius: 50%; background: var(--accent); flex: none; }
 
