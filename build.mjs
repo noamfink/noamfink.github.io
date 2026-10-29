@@ -104,8 +104,9 @@ async function siteOgImage(heroRel) {
     <text x="64" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#6E726F">${esc(site.name)} · Industrial Design</text>
     <text font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" fill="#1B1D1C" letter-spacing="-1.5">
       ${lines.map((l, i) => `<tspan x="60" y="${top + i * 72}">${esc(l)}</tspan>`).join('')}</text>
-    <circle cx="70" cy="542" r="6" fill="#4F6B5C"/>
-    <text x="88" y="551" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#4F6B5C">Open to internships and full-time roles</text>
+    <circle cx="70" cy="532" r="6" fill="#7FD6CB"/>
+    <text font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#6E726F">
+      <tspan x="88" y="541">Open to opportunities to collaborate,</tspan><tspan x="88" y="573">design, and innovate.</tspan></text>
   </svg>`;
   await sharp(Buffer.from(svg)).composite([{ input: photo, left: 680, top: 0 }]).jpeg({ quality: 85 }).toFile(out);
   return '/og/site.jpg';

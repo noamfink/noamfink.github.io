@@ -86,7 +86,7 @@ p { margin: 0 0 1em; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .home .hero h1 { color: #CDBFB8; } }
 :root[data-theme="dark"] .home .hero h1 { color: #CDBFB8; }
 .availability { margin-top: 28px; color: var(--muted); display: flex; align-items: center; gap: 10px; font-size: 1rem; }
-.dot { inline-size: 7px; block-size: 7px; border-radius: 50%; background: var(--accent); flex: none; }
+.dot { inline-size: 7px; block-size: 7px; border-radius: 50%; background: #7FD6CB; flex: none; }
 
 /* ---------- work grid ---------- */
 .work .label { margin-bottom: 20px; }
