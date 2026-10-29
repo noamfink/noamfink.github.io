@@ -1,7 +1,7 @@
 ---
 title: Pulse, interactive nebulizer
 slug: interactive-childrens-nebulizer
-summary: A children's nebulizer that releases medication only on inhalation, with a soft light that breathes along.
+summary: An interactive nebulizer that synchronizes with a child’s natural breathing rhythm for optimized delivery.
 tint: mist
 cover: images/interactive-childrens-nebulizer/02.png
 ---
