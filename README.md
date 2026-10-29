@@ -51,27 +51,30 @@ node serve.mjs
 
 Then open http://localhost:4321. The build prints anything still missing (placeholders, low-res images, TODO notes).
 
-## Deploying on Netlify
+## Publishing (GitHub Pages)
 
-**Recommended: connect a GitHub repo** so every edit you push redeploys automatically.
+The site lives at **https://noamfink.github.io**, from the repository
+https://github.com/noamfink/noamfink.github.io.
 
-1. Put this folder in a GitHub repository (GitHub Desktop is the easiest way).
-2. In Netlify: **Add new site → Import an existing project → GitHub**, pick the repo.
-3. Netlify reads `netlify.toml` (build command `npm run build`, publish folder `dist`). Click **Deploy**.
+Every push to the `main` branch rebuilds and republishes the site automatically
+(`.github/workflows/deploy.yml`). It takes about a minute; progress shows under the
+repository's **Actions** tab.
 
-**Quick alternative: Netlify Drop.** Run `npm run build`, then drag the `dist` folder onto https://app.netlify.com/drop. You repeat this after every change.
+The easiest way to edit without the command line is **GitHub Desktop** (desktop.github.com):
+clone the repository, edit files, then **Commit** and **Push**. You can also edit a
+Markdown file directly on github.com with the pencil icon.
 
-After the first deploy, put the final address in `site.json` → `"url"` and in `static/robots.txt`, then rebuild. Link previews use this address for the image.
+`netlify.toml` is left over from the first host and is ignored by GitHub.
 
 ## Connecting a custom domain (for example noamfink.com)
 
-1. Buy the domain (Netlify can sell you one directly, or use Namecheap, Cloudflare, Porkbun…).
-2. Netlify → your site → **Domain management → Add a domain** → type `noamfink.com`.
-3. Point the domain at Netlify. Either:
-   - **Easiest:** choose **Use Netlify DNS** and copy the four `dns1.p0X.nsone.net` nameservers Netlify shows into your registrar's "Nameservers" setting, or
-   - **Keep your registrar's DNS:** add an `A` record for `@` → `75.2.60.5`, and a `CNAME` for `www` → `your-site-name.netlify.app`.
-4. Wait for DNS (minutes to a few hours). Netlify issues the free HTTPS certificate automatically; check **HTTPS** shows "Certificate active".
-5. Update `"url"` in `site.json` and `static/robots.txt` to `https://noamfink.com` and redeploy.
+1. Buy the domain (Namecheap, Cloudflare, Porkbun…).
+2. At your registrar, add DNS records:
+   - four `A` records for `@` → `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
+   - a `CNAME` for `www` → `noamfink.github.io`
+3. On GitHub: repository → **Settings → Pages → Custom domain**, type `noamfink.com`, **Save**.
+4. Wait for DNS (minutes to a few hours), then tick **Enforce HTTPS** on the same page.
+5. Update `"url"` in `site.json` and `static/robots.txt` to `https://noamfink.com` and push.
 
 ## Resume
 
