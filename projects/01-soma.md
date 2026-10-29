@@ -28,6 +28,8 @@ The system consists of two complementary harnesses:
 
 Together, the system creates a new communication channel between humans and their dogs, strengthening mutual support and restoring confidence and independence to individuals living with PTSD in their daily lives.
 
+![A chocolate Labrador wearing the Service Dog harness lies on an outdoor step beside its handler, who rests a hand on its head](images/soma/08-in-use.webp)
+
 <!-- TODO: Add a short Process section here: research with trainers or handlers, how you tested fit and sensor placement, prototypes. Recruiters look for this most. -->
 
 ## What's next
