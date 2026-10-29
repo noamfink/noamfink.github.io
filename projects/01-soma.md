@@ -1,5 +1,5 @@
 ---
-title: Soma
+title: Soma, smart textile systems
 slug: soma
 summary: A smart textile harness system for service dogs supporting people living with PTSD.
 tint: sage
