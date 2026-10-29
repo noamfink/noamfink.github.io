@@ -1,7 +1,7 @@
 ---
 title: コーヒーの庭 | Coffee Garden
 slug: coffee-garden
-summary: A coffee maker built around a living bonsai, bringing a Japanese Zen garden into the daily brew.
+summary: Turning coffee making into a morning ritual.
 tint: sage
 cover: images/coffee-garden/01.png
 ---
