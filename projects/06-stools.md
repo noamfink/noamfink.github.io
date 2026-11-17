@@ -18,6 +18,4 @@ Crafted through curved MDF lamination using heat, and finished with oak and waln
 
 ![MDF layers clamped over a curved form](images/mdf-lamination-stools/02.jpg "Clamping the lamination")
 
-![MDF sheet inside a heating press](images/mdf-lamination-stools/03.jpg "Heat forming")
-
 <!-- TODO: Result is thin: add photos of the finished physical stools (not only the render), dimensions, and what you learned from the lamination. Process photos are 960px wide. -->
